@@ -5,7 +5,8 @@ Hey everyone! This is my Github and it contains all of my side projects that I h
 Feel free to check out all my socials and connect with me, love to meet new people!
 
 **Linkedin: https://www.linkedin.com/in/armaan-rasheed-530229a0/**  
-**Instagram: armaarn**  
+**Instagram: [@armaarn](https://www.instagram.com/armaarn/)**
+ 
 **Resume: (Currently being updated...)**
 
 
