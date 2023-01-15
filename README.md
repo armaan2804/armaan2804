@@ -1,13 +1,13 @@
 ### Welcome 👋
 
-Hey everyone! This is my Github and it contains all of my side projects that I have worked on over the last year! I am extremely interested in the engineering field and love to find out how every aspect of technology works. I am currently a high school student at John Fraser Secondary School and am planning to pursue an engineering degree. My interests are in machine-learning, computer vision libraries, web development, mechatronics and RPA. 🤖🤖🤖🤖
+Hey everyone! This is my Github and it contains all of my side projects that I have worked on! I am extremely interested in the engineering field and love to find out how every aspect of technology works. I am currently a first year Mechatronics Engineering student at the University of Waterloo. My interests are in robotics, embedded-systems, machine-learning, computer vision libraries, web development, and mechatronics in general 🤖🤖🤖🤖
 
 Feel free to check out all my socials and connect with me, love to meet new people!
 
 **Linkedin: https://www.linkedin.com/in/armaan-rasheed-530229a0/**  
 **Instagram: [@armaarn](https://www.instagram.com/armaarn/)**
  
-**Resume: (Currently being updated...)**
+**Resume: \href{https://drive.google.com/file/d/10fhFVr4-QY096KFZ_xHAMhojhXctz2Of/view?usp=sharing}
 
 
 
