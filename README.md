@@ -7,7 +7,7 @@ Feel free to check out all my socials and connect with me, love to meet new peop
 **Linkedin: https://www.linkedin.com/in/armaan-rasheed-530229a0/**  
 **Instagram: [@armaarn](https://www.instagram.com/armaarn/)**
  
-**Resume: \href{https://drive.google.com/file/d/10fhFVr4-QY096KFZ_xHAMhojhXctz2Of/view?usp=sharing}
+**Resume: https://drive.google.com/file/d/10fhFVr4-QY096KFZ_xHAMhojhXctz2Of/view?usp=sharing
 
 
 
